@@ -1,5 +1,5 @@
-# CS300
-Project Reflection
+# Reflection
+
 
 During the projects for this course, I was asked to analyze different data structures for their effectiveness in facilitating the needs of a university’s academic advisors. To help with their programming needs, I outlined designs for implementations of a vector, hash table, and binary search tree by writing pseudocode to reflect the logic behind the code for each structure. From there, I analyzed their runtime and space complexity to determine the most efficient and appropriate data structure to use. It was obvious that fewer lines of code did not equate to a quicker runtime in the vector’s analysis and a hash table could not sort the data alphanumerically effectively. In my recommendation, I suggested a binary search tree because of its average runtime complexity of O(log(n)) for searching, inserting, and removing nodes.
 
