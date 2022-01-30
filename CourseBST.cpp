@@ -1,5 +1,5 @@
 
-// By: Paul Kenaga
+// By: Paul Oliver
 // CS 300 Project 2
 // 12/10/21
 
